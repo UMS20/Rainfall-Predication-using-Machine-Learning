@@ -1,6 +1,7 @@
 # Rainfall-Predication-using-Machine-Learning
 
 IBM Badges
+
 1.Enterprise Data Science in Practice Badge:https://www.credly.com/badges/331c69fe-f05f-47e4-a7f1-cbeb914be2ed/public_url
 
 ![enterprise-data-science-in-practice 1 (1)](https://github.com/UMS20/Rainfall-Predication-using-Machine-Learning/assets/162282549/323269d0-6c58-436c-9292-ded654904e52)
